@@ -4,5 +4,5 @@
 - ⌨️ I’m currently learing to utilize Ruby in Penetration Testing
 - 📫 How to reach me: indreksoome@lewisu.edu
 - 🗣️ I am fluent in English, Finnish, and Estonian
-- 🙂 My hobbies include Tennis, Gym, and Sneakers
+- 🙂 My hobbies include Tennis, Chess, and Fishing
 
